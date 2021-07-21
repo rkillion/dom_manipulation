@@ -10,6 +10,7 @@
 
     ### What is the DOM?
     - DOM stands for Document Object Model
+    - When does the DOM get created? When HTML is being loaded from a server, the browser takes the HTML and converts it to the DOM
     - It is a programming interface of your HTML or XML that is created by the browser
     - Offers a web page as a tree of objects 
     - We use JavaScript with the DOM to make cool things happen!
@@ -17,7 +18,6 @@
     - What is a node? Anything we can change in the document: element, Text, HTML attributes
     - These nodes also have relationships to one another
     - Element relationships can be really useful for traversing the DOM. This means accessing elements from other elements 
-    - When does the DOM get created? When HTML is being loaded from a server, the browser takes the HTML and converts it to the DOM
 
     ### How to access elements
     ## Returning 1 element:
@@ -49,6 +49,11 @@
     - `document.createElement()`
     - `innerHTML`
     - difference between `+=` and `=`
+
+    ### Modifying Element text
+    - `.innerText`: Will only return human readable text
+    - `.textContent`: Will return text as well as associated elements like span, style
+    [innerText vs textContent](https://kellegous.com/j/2013/02/27/innertext-vs-textcontent/)
 
     ### Removing elements from the DOM
     - `.remove()`
