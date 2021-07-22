@@ -1,4 +1,4 @@
-const expenseItems = [
+const items = [
     {
         id: 1,
         date: '10/2/2020',
