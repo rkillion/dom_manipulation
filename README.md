@@ -65,8 +65,8 @@
   - `.remove()`
 
   ### Resources
-- [SPA](https://developer.mozilla.org/en-US/docs/Glossary/SPA)
-- [Introduction to the DOM](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction)
-- [DOM Manipulation](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Manipulating_documents)
-- [innerText vs textContent](https://kellegous.com/j/2013/02/27/innertext-vs-textcontent/)
+-[SPA](https://developer.mozilla.org/en-US/docs/Glossary/SPA)
+-[Introduction to the DOM](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction)
+-[DOM Manipulation](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Manipulating_documents)
+-[innerText vs textContent](https://kellegous.com/j/2013/02/27/innertext-vs-textcontent/)
 -[Using Selectors](https://developer.mozilla.org/en-US/docs/Web/API/Document_object_model/Locating_DOM_elements_using_selectors)
